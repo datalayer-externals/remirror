@@ -1,5 +1,18 @@
 # @remirror/react-editors
 
+## 0.1.26
+
+> 2021-11-04
+
+### Patch Changes
+
+- Add new method `hasHandlers` to extensions.
+
+- Updated dependencies []:
+  - remirror@1.0.39
+  - @remirror/extension-react-tables@1.0.15
+  - @remirror/react@1.0.15
+
 ## 0.1.25
 
 > 2021-11-04

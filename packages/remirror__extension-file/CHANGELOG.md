@@ -1,5 +1,20 @@
 # @remirror/extension-file
 
+## 0.3.3
+
+> 2021-11-04
+
+### Patch Changes
+
+- Add new method `hasHandlers` to extensions.
+
+* Deleting a file using keyboard shortcuts should trigger `onDeleteFile` handler.
+
+* Updated dependencies []:
+  - @remirror/core@1.3.0
+  - @remirror/react@1.0.15
+  - @remirror/react-components@1.0.14
+
 ## 0.3.2
 
 > 2021-11-04

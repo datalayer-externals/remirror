@@ -1,5 +1,23 @@
 # @remirror/react-core
 
+## 1.0.13
+
+> 2021-11-04
+
+### Patch Changes
+
+- Add new method `hasHandlers` to extensions.
+
+- Updated dependencies []:
+  - @remirror/core@1.3.0
+  - @remirror/extension-positioner@1.1.9
+  - @remirror/extension-react-component@1.0.12
+  - @remirror/extension-react-ssr@1.0.11
+  - @remirror/preset-core@1.0.12
+  - @remirror/preset-react@1.0.11
+  - @remirror/react-renderer@1.0.12
+  - @remirror/react-ssr@1.0.11
+
 ## 1.0.12
 
 > 2021-11-04

@@ -1,5 +1,19 @@
 # @remirror/preset-react
 
+## 1.0.11
+
+> 2021-11-04
+
+### Patch Changes
+
+- Add new method `hasHandlers` to extensions.
+
+- Updated dependencies []:
+  - @remirror/core@1.3.0
+  - @remirror/extension-placeholder@1.0.11
+  - @remirror/extension-react-component@1.0.12
+  - @remirror/extension-react-ssr@1.0.11
+
 ## 1.0.10
 
 > 2021-11-04
